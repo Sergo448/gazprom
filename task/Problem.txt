@@ -1,0 +1,16 @@
+Gnomes are mining gold periodically reporting their booty.
+On this mining operation there were two generation of tools being used,
+some gnomes were equipped with 1st generation tools, others with 2nd generation.
+After the introduction of new generation tooling Gnome Inc CEO noticed that performance didn’t match his expectations.
+You as an analyst of Gnome Inc should confirm or reject CEO worries supporting your findings by cold hard data.
+
+Гномы добывают золото, периодически сообщая о своей добыче.
+В этой операции по добыче полезных ископаемых использовались два поколения инструментов,
+некоторые гномы были оснащены инструментами 1-го поколения, другие - 2-го поколения.
+После внедрения инструментов нового поколения генеральный директор Gnome Inc заметил,
+что производительность не соответствует его ожиданиям.
+Вы, как аналитик Gnome Inc, должны подтвердить или опровергнуть опасения генерального директора,
+подкрепляющие ваши выводы холодными достоверными данными.
+
+
+https://drive.google.com/drive/folders/10tmsi6CBiitQ4Y3icr7IJCMx8ffUcvbS
